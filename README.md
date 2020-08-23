@@ -3,7 +3,7 @@ A terminal Program based on [This tutorial](https://doc.rust-lang.org/book/ch02-
 
 Written in the Rust Programming language
 
-To run you will need [cargo](cargo.io)
+To run you will need [cargo](crates.io)
 
 ```
 cargo run
